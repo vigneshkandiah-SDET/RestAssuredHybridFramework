@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-23T00:20:10 IST" name="Suite" finished-at="2024-09-23T00:20:23 IST" duration-ms="13150">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T00:20:10 IST" name="Test" finished-at="2024-09-23T00:20:23 IST" duration-ms="13150">
+      <class name="api.test.UserTestPropFile">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.test.UserTestPropFile@26e356f0]" started-at="2024-09-23T00:20:11 IST" name="setup" finished-at="2024-09-23T00:20:12 IST" duration-ms="1457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTestPropFile@26e356f0]" started-at="2024-09-23T00:20:12 IST" name="testPostUser" finished-at="2024-09-23T00:20:16 IST" duration-ms="4315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUserByName()[pri:2, instance:api.test.UserTestPropFile@26e356f0]" started-at="2024-09-23T00:20:16 IST" name="testGetUserByName" finished-at="2024-09-23T00:20:18 IST" duration-ms="1750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByName -->
+        <test-method signature="testUpdateUser()[pri:3, instance:api.test.UserTestPropFile@26e356f0]" started-at="2024-09-23T00:20:18 IST" name="testUpdateUser" finished-at="2024-09-23T00:20:22 IST" duration-ms="3611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="deleteUserbyName()[pri:4, instance:api.test.UserTestPropFile@26e356f0]" started-at="2024-09-23T00:20:22 IST" name="deleteUserbyName" finished-at="2024-09-23T00:20:23 IST" duration-ms="1290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserbyName -->
+      </class> <!-- api.test.UserTestPropFile -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
